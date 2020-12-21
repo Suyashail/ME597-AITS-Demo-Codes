@@ -2,7 +2,7 @@
 
 This is a repository for the demo codes and assignments developed by me as a Teaching Assistant (TA) for the course ME597- Artificial Intelligence in Thermal Systems taught by Dr. Veeraraghava Raju Hasti for Fall 2020. 
 
-The course covered topics on Machine Learning and Deep Learning with demo examples shown in the lecture to give a practical experience to the students. 
+The course covered topics on Machine Learning and Deep Learning with demo examples shown in the lecture to give a practical experience to the students. All the demo codes are designed such that the machine learning models can be applied to real world settings related to thermal systems (temperature prediction, forest fire detection, star classification etc.)
 
 Topics:
 
